@@ -11,7 +11,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 # --- Метаданные плагина ---
 __plugin_name__ = "Text Enhancer"
 __version__ = "1.0.0"
-__author__ = "@your_username"
+__author__ = "@newExtera"
 __description__ = "Автоматическое форматирование и улучшение текста по кнопке или команде."
 
 
